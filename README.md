@@ -38,4 +38,4 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Vinamdar70/Java_ExceptionHandling_Practice.git
+   git clone https://github.com/Vinamdar70/Java-ExceptionHandling-Assignments.git
